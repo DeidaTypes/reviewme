@@ -1,0 +1,8 @@
+{
+  "name": "reviewme",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "custom"
+}
