@@ -3,7 +3,6 @@
 
 <template>
     <ion-page>
-      <ion-searchbar animated="true" placeholder="Animated"></ion-searchbar>
       <ion-content class="ion-padding">
         <div class="Main-Menu"></div>
       </ion-content>
