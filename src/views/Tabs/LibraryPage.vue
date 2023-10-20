@@ -3,7 +3,7 @@
   <ion-toolbar>
     <ion-title>Library</ion-title>
   </ion-toolbar>
-  <ion-button @click="presentActionSheet">Open</ion-button>
+  <ion-button class=""  @click="presentActionSheet">Add Games</ion-button>
 </template>
 
 
